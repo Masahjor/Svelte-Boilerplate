@@ -1,6 +1,8 @@
 <script lang="ts">
   export let error: Error;
   export let status: number;
+  console.log("An error has occurred:", error);
+
 </script>
 
 <svelte:head>

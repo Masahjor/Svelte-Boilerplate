@@ -1,6 +1,6 @@
 <!-- Script -->
 <script lang="ts">
-   
+     console.log("Allo example page");
 </script>
 
 
