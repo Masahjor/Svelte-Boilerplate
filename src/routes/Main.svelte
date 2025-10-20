@@ -14,8 +14,9 @@
 
 
 <!-- HTML -->
-<main>
-    <h1 class="h-screen">I am main homepage</h1>
+<main class="h-screen">
+    <h1>I am main homepage</h1>
+
 </main>
 
 

@@ -1,12 +1,15 @@
 <!-- Script -->
 <script lang="ts">
+      import EmailValidation from '../emailValidation.svelte';
+
      console.log("Allo example page");
 </script>
 
 
 <!-- HTML -->
-<main>
-    <h2 class="h-screen">Example Page</h2>
+<main class="h-screen">
+    <h2>Example Page</h2>
+    <EmailValidation />
 </main>
 
 
