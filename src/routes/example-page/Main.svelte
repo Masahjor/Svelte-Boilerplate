@@ -10,6 +10,7 @@
 <main class="h-screen">
     <h2>Example Page</h2>
     <EmailValidation />
+    
 </main>
 
 
