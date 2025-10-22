@@ -1,8 +1,11 @@
 <!-- Script -->
 <script lang="ts">
+	import path from "path";
+
    let sections = [
         { name: 'Home', path: '/' },
-        { name: 'Example', path: '/example-page' }
+        { name: 'Example', path: '/example-page' },
+        { name: 'Admin', path: '/admin' }
     ];
     let isMenuOpen = false;
 
