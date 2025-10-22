@@ -1,4 +1,4 @@
-<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-12 gap-4 p-4">
+<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-12 gap-4">
   <!-- Slider - Div 1 -->
   <div class="col-span-2 md:col-span-4 lg:col-span-12 bg-gray-300 h-64 flex items-center justify-center">
     <div class="text-xl font-bold">Slider Goes Here</div>

@@ -21,7 +21,7 @@
   }
 </script>
 
-<form on:submit|preventDefault={handleSubmit}>
+<form class="pb-4" on:submit|preventDefault={handleSubmit}>
   <input type="email" bind:value={email} placeholder="Email" />
   {#if error}
     <p style="color: red;">{error}</p>

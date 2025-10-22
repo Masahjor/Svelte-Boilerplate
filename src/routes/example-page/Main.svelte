@@ -7,8 +7,8 @@
 
 
 <!-- HTML -->
-<main class="h-screen">
-    <h2>Example Page</h2>
+<main class="p-4">
+    <h2 class="pb-4">Example Page</h2>
     <EmailValidation />
     <GridSlider />
 </main>
