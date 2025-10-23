@@ -5,7 +5,7 @@
    let sections = [
         { name: 'Home', path: '/' },
         { name: 'Example', path: '/example-page' },
-        { name: 'Admin', path: '/admin' }
+        { name: 'Admin', path: '/admin/login' }
     ];
     let isMenuOpen = false;
 
