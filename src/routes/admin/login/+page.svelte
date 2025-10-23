@@ -10,7 +10,7 @@
     error = '';
 
     // Example: simple fake check
-    if (email === 'admin@example.com' && password === 'admin123') {
+    if (email === 'admin@admin.com' && password === 'admin123') {
       // Store auth flag (replace with real auth logic)
       localStorage.setItem('isAdmin', 'true');
       goto('/admin/dashboard');
@@ -35,7 +35,7 @@
           type="email"
           bind:value={email}
           class="w-full px-3 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-          placeholder="admin@example.com"
+          placeholder="admin@admin.com"
           required
         />
       </div>
