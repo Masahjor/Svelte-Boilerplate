@@ -1,0 +1,26 @@
+[
+  { 
+    "id": 1, "name": "Alpha", "description": "Placeholder item 1" 
+},
+  {
+    "id": 2, "name": "Bravo", "description": "Placeholder item 2" 
+},
+  { 
+    "id": 3, "name": "Charlie", "description": "Placeholder item 3" 
+},
+  { 
+    "id": 4, "name": "Delta", "description": "Placeholder item 4" 
+},
+  { 
+    "id": 5, "name": "Echo", "description": "Placeholder item 5" 
+},
+  { 
+    "id": 6, "name": "Foxtrot", "description": "Placeholder item 6" 
+},
+  { 
+    "id": 7, "name": "Golf", "description": "Placeholder item 7" 
+},
+  { 
+    "id": 8, "name": "Hotel", "description": "Placeholder item 8" 
+}
+]

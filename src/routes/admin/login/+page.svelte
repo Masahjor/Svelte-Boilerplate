@@ -1,4 +1,7 @@
 <script lang="ts">
+    import Header from '../../Header.svelte';
+    import Footer from '../../Footer.svelte';
+
   import { onMount } from 'svelte';
   import { goto } from '$app/navigation';
 
@@ -19,6 +22,12 @@
     }
   }
 </script>
+
+
+
+<main>
+  <Header/>
+
 
 <div class="min-h-screen flex items-center justify-center bg-gray-100">
   <div class="bg-white shadow-lg rounded-lg w-full max-w-md p-8">
@@ -60,3 +69,7 @@
     </form>
   </div>
 </div>
+
+
+  <Footer/>
+</main>
