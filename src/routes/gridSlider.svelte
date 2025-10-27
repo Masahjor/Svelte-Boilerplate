@@ -1,4 +1,18 @@
-<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-12 gap-4">
+<script lang="ts">
+  // import items from 'src\lib\data\data.json' assert { type: 'json' };
+
+  // interface Item {
+  //   id: number;
+  //   name: string;
+  //   description: string;
+  // }
+
+  // const data: Item[] = items;
+</script>
+
+
+
+<main class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-12 gap-4">
   <!-- Slider - Div 1 -->
   <div class="col-span-2 md:col-span-4 lg:col-span-12 bg-gray-300 h-64 flex items-center justify-center">
     <div class="text-xl font-bold">Slider Goes Here</div>
@@ -20,4 +34,10 @@
 
   <!-- Div 8 -->
   <div class="col-span-2 md:col-span-4 lg:col-span-12 bg-blue-700 h-32">Box 8</div>
-</div>
+</main>
+
+
+
+<style>
+
+</style>
